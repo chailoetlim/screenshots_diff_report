@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 # 
 # Translators:
-# Chailoet Limrotcharoenwong, 2025
 # john snow, 2025
+# Chailoet Limrotcharoenwong, 2025
 # greedlove, 2025
 # 
 #, fuzzy
@@ -244,8 +244,8 @@ msgid ""
 "All in-memory data will be wiped."
 msgstr ""
 "SeedSigner กำลังรีสตาร์ท \n"
-"\n"
-"ข้อมูลในหน่วยความจำจะถูกล้างทั้งหมด"
+"ข้อมูลในหน่วยความจำ\n"
+"จะถูกล้างทั้งหมด"
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "Powering Off"
@@ -283,12 +283,12 @@ msgstr "สำรอง Seed"
 #. SeedQR).
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Backups do not include your passphrase."
-msgstr "การสำรองจะไม่รวมรหัสผ่านเสริม"
+msgstr "การสำรองจะไม่รวมวลีรหัส"
 
 #. Displays the page number and total: (e.g. page 1 of 6)
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Seed Words: {}/{}"
-msgstr "ชุดคำช่วยจำ {}/{}"
+msgstr "ชุดคำกู้คืน {}/{}"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "BIP-85 Index"
@@ -1083,19 +1083,19 @@ msgstr "เกิดข้อผิดพลาดในการตรวจส
 
 #: src/seedsigner/views/seed_views.py
 msgid "Edit passphrase"
-msgstr "ปรับแต่ง passphrase"
+msgstr "ปรับแต่ง รหัสผ่านเสริม"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Discard passphrase"
-msgstr "ยกเลิก passphrase"
+msgstr "ยกเลิก รหัสผ่านเสริม"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Discard passphrase?"
-msgstr "ยกเลิก passphrase?"
+msgstr "ยกเลิก รหัสผ่านเสริม?"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Your current passphrase entry will be erased"
-msgstr "passphrase ปัจจุบันจะถูกลบ"
+msgstr "รหัสผ่านเสริมปัจจุบัน จะถูกลบ"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Keep Seed"
